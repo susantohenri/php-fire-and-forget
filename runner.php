@@ -1,0 +1,1 @@
+<?php exec ("php xoxo.php >/dev/null &");
